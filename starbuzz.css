@@ -68,3 +68,9 @@ a:visited {
   margin-left: auto;
   margin: auto;
 }
+#sidebar {
+  position: absolute;
+  top: 100px;
+  right: 200px;
+  width: 280px;
+}
